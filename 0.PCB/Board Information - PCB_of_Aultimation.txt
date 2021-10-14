@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\MyDocuments\Assignments\Project_of_Gesture_Light\PCB_Design\PCB_of_Aultimation.PcbDoc
+Date         : 2017/5/8
+Time         : 10:49:26
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 80
+    Connections routed, 80
+    Connections remaining, 0
+count : 4
