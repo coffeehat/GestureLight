@@ -28,7 +28,7 @@
 
 Altium Designer绘制的PCB
 
-![](2.Docs/0.Pics/PCB双面.jpg)
+![](2.Docs/0.Pics/pcb双面.jpg)
 
 ## 实物图
 
